@@ -1,0 +1,51 @@
+1
+Jurassic World
+20.00
+2.27
+Adventure
+2
+Minions: The Rise of Gru
+21.00
+1.30
+Universal Studios
+3
+Top Gun: Maverick
+20.00
+2.18
+Paramount
+4
+The Roundup
+20.00
+1.46
+Hong Film
+5
+Haunted Universities 2: Second Senes
+19.00
+2.30
+Vieshow Cinemas
+6
+Doctor Strange in the Multiverse of Madness
+20.00
+2.10
+Walt Disney Studios Motion Pictures
+7
+Doraemon: Nobita's Little Star Wars 2021
+18.00
+2.20
+SHIN-EI Animation Co.,Ltd.
+8
+Detective Conan: The Bride of Halloween
+17.00
+2.25
+TMS Entertainment
+9
+Ah Girls Go Army
+20.00
+2.00
+mm2 Entertainment
+10
+Breakout Brothers 3
+20.00
+1.43
+Mandarin Motion Pictures
+
